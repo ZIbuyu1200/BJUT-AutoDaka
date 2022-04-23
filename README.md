@@ -2,8 +2,6 @@
 
 # 请遵守学校相关防疫要求，本人仅做代码和技术的分享，如若出事概不负责
 
-# **本项目借鉴自[大佬 1](https://github.com/HTY-DBY/BJUT-Auto-Daka)和[大佬 2](https://github.com/tsosunchia/bjut_autosignin/)**
-
 ## 1. 更新
 
 ### 1.1. 2022 年 3 月 16 日
