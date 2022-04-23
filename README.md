@@ -26,8 +26,6 @@
 
 #### 2.1.1. 下载源码
 
-[源码地址请点击这里](https://github.com/HTY-DBY/BJUT-Auto-Daka "源码地址请点击这里")
-
 文件夹 DontChange，如同名字一样，不要动里面的设定
 
 文件夹 local，里面是关于后文您所需填入的相关设定，详见后文
