@@ -3,7 +3,7 @@
   "userInfoMode": "local",
   "EMAIL_ENABLE": false,
   "EMAIL_USERNAME": "997916923@qq.com",
-  "EMAIL_PASSWORD": "csohzcsdcesabeee",
+  "EMAIL_PASSWORD": "mima",
   "EMAIL_SERVER": "smtp.qq.com",
   "EMAIL_PORT": 25,
   "isCaptchaReqResSeparate": true,
@@ -20,7 +20,7 @@
   },
   "captchaSendRequestBody": {
     "method": "base64",
-    "key": "198d140afce4b88f4986545a094632de",
+    "key": "mima",
     "min_len": "4",
     "max_len": "4",
     "json": "1"
@@ -36,7 +36,7 @@
     "accept-charset": "UTF-8"
   },
   "captchaGetRespondBody": {
-    "key": "198d140afce4b88f4986545a094632de",
+    "key": "mima",
     "action": "get",
     "json": "1"
   }
