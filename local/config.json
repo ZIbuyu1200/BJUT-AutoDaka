@@ -1,0 +1,43 @@
+{
+  "EMAIL_REC_LIST": ["hty@hty.ink"],
+  "userInfoMode": "local",
+  "EMAIL_ENABLE": false,
+  "EMAIL_USERNAME": "997916923@qq.com",
+  "EMAIL_PASSWORD": "csohzcsdcesabeee",
+  "EMAIL_SERVER": "smtp.qq.com",
+  "EMAIL_PORT": 25,
+  "isCaptchaReqResSeparate": true,
+  "captchaSendRequestHost": "http://2captcha.com",
+  "captchaSendRequestPath": "/in.php",
+  "captchaSendRequestOKName": "status",
+  "captchaSendRequestOKCode": 1,
+  "captchaSendRequestTaskIDName": "request",
+  "captchaSendRequestCaptchaName": "captcha",
+  "captchaSendRespondBodyContentName": "body",
+  "captchaSendRequestHead": {
+    "enctype": "multipart/form-data",
+    "accept-charset": "UTF-8"
+  },
+  "captchaSendRequestBody": {
+    "method": "base64",
+    "key": "198d140afce4b88f4986545a094632de",
+    "min_len": "4",
+    "max_len": "4",
+    "json": "1"
+  },
+  "captchaGetRequestOKName": "status",
+  "captchaGetRequestOKCode": 1,
+  "captchaGetRequestHost": "http://2captcha.com",
+  "captchaGetRequestPath": "/res.php",
+  "captchaGetRespondTaskIDName": "id",
+  "captchaGetRespondBodyContentName": "request",
+  "captchaGetRequestHead": {
+    "enctype": "multipart/form-data",
+    "accept-charset": "UTF-8"
+  },
+  "captchaGetRespondBody": {
+    "key": "198d140afce4b88f4986545a094632de",
+    "action": "get",
+    "json": "1"
+  }
+}

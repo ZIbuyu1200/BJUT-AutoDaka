@@ -1,0 +1,78 @@
+{
+  "mysqlDataBlackList": ["compileDate", "punchInfoNum", "stuID"],
+  "suffix_data": "&msgUrl=syt/zzglappro/index.htm?type=yqsjsb&xmid=2c95de297d4f8bfa017d85f53d267613&multiSelectData={}",
+  "prefixData": {
+    "xmqkb": {
+      "id": "2c95de297d4f8bfa017d85f53d267613"
+    },
+    "type": "YQSJSB"
+  },
+  "xgxtURL": "http://xgxt.bjut.edu.cn/",
+  "checkCaptchaRequiredURL": "http://xgxt.bjut.edu.cn/nonlogin/login/captcha/isvalid.htm",
+  "checkCaptchaRequiredHeader": {
+    "Accept": "*/*",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8,en-US;q=0.7",
+    "Connection": "keep-alive",
+    "Host": "xgxt.bjut.edu.cn",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 "
+  },
+  "captchaURL": "http://xgxt.bjut.edu.cn/nonlogin/login/captcha.htm",
+  "captchaHeader": {
+    "Accept": "image/webp,image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8,en-US;q=0.7",
+    "Connection": "keep-alive",
+    "Host": "xgxt.bjut.edu.cn",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 "
+  },
+  "loginURL": "http://xgxt.bjut.edu.cn//login/Login.htm",
+  "loginHeader": {
+    "Accept": "*/*",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8,en-US;q=0.7",
+    "Connection": "keep-alive",
+    "Host": "xgxt.bjut.edu.cn",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 "
+  },
+  "checkLoginURL": "http://xgxt.bjut.edu.cn/nonlogin/login/isLogin.htm",
+  "clockinURL": "http://xgxt.bjut.edu.cn:80/syt/zzapply/operation.htm",
+  "clockinHeader": {
+    "Accept": "application/json, text/plain, */*",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept-Language": "zh-CN,zh-Hans;q=0.9",
+    "Origin": "http://xgxt.bjut.edu.cn",
+    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)  Mobile/15E148 wxwork/3.1.16 MicroMessenger/7.0.1 Language/zh ColorScheme/Dark",
+    "Referer": "http://xgxt.bjut.edu.cn/webApp/xuegong/index.html",
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "Connection": "keep-alive",
+    "X-Requested-With": "XMLHttpRequest",
+    "Host": "xgxt.bjut.edu.cn",
+    "Content-length": "1204"
+  },
+  "checkFormURLPost": "http://xgxt.bjut.edu.cn/syt/zzapply/checkrestrict.htm",
+  "checkFormHeaderPost": {
+    "Host": "xgxt.bjut.edu.cn",
+    "Upgrade-Insecure-Requests": "1",
+    "Accept": "*/*",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15",
+    "Accept-Language": "zh-CN,zh-Hans;q=0.9",
+    "Accept-Encoding": "gzip, deflate",
+    "Connection": "keep-alive",
+    "X-Requested-With": "XMLHttpRequest",
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "Origin": "http://xgxt.bjut.edu.cn"
+  },
+  "checkFormDataPost": "xmid=2c95de297d4f8bfa017d85f53d267613&pdnf=2021-2022",
+  "checkFormURLGet": "http://xgxt.bjut.edu.cn/syt/zzapply/apply.htm?type=yqsjsb&judge=sq&xmid=2c95de297d4f8bfa017d85f53d267613",
+  "checkFormHeaderGet": {
+    "Host": "xgxt.bjut.edu.cn",
+    "Upgrade-Insecure-Requests": "1",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15",
+    "Referer": "http://xgxt.bjut.edu.cn/user/index.htm",
+    "Accept-Language": "zh-CN,zh-Hans;q=0.9",
+    "Accept-Encoding": "gzip, deflate",
+    "Connection": "keep-alive"
+  }
+}
